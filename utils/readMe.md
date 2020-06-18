@@ -11,12 +11,12 @@
 [Contributing]
 [Tests]
 [Questions]
-# Usage 1
-# Installation 2
-# License 3
-# Contributing 4
-# Tests 5
-# Questions 6
+# Usage
+# Installation
+# License
+# Contributing
+# Tests
+# Questions
 
  
       
