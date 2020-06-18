@@ -1,6 +1,6 @@
 
 
-# Title generateMarkdown
+# Title: Generate Markdown
 # Description This project uses the CLI to generate a readMe.md file to desribe the contents within the files and the functionality of a given project
 # Table of Contents 
 [Title](https://github.com/gentryhunt23/Unit-10-HW/tree/master/utils#title-generatemarkdown)
